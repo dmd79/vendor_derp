@@ -164,6 +164,7 @@ PRODUCT_PACKAGES += \
 # SystemUI
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     DerpLauncherQuickStep \
+    Settings \
     SettingsGoogle \
     SystemUIGoogle
 
